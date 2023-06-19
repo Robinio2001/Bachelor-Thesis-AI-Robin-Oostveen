@@ -34,6 +34,6 @@ Preprocessing Pipeline and Data Exploration Medical.ipynb: contains the code for
 Error indices: folder containing the indices of specific errors from the cells of the confusion matrix.
 
 ## Author
-Robin Oostveen<br />
-6732348, Utrecht University<br />
+Robin Oostveen, 6732348<br />
+Utrecht University<br />
 Supervisor: Yingjin Song
