@@ -17,16 +17,16 @@ It is suggested that in future projects, it might be better to first start with 
 The results of this research might spark renewed interest in the development and modernization of the traditional machine learning techniques. In turn, the performance of these models might increase further, providing cheaper alternatives to expensive deep learning models.
 
 ## Files
-financial_BERT_CNN_model: contains the files necessary to import the trained model using Tensorflow.
-medical_BERT_CNN_model: contains the trained BERT+CNN model, ready to be imported using Tensorflow.
+financial_BERT_CNN_model: contains the files necessary to import the trained model using Tensorflow. <br />
+medical_BERT_CNN_model: contains the trained BERT+CNN model, ready to be imported using Tensorflow.<br />
 
-Financial Lexicon Based Approach.ipynb: contains the code for application of the VADER lexicon on the Financial Phrasebank.
-Financial SVM.ipynb: contains the code for application of an SVM on the Financial Phrasebank.
-Financial DL Model Tensorflow.ipynb: contains the code for the application of the BERT+CNN model on the Financial Phrasebank.
+Financial Lexicon Based Approach.ipynb: contains the code for application of the VADER lexicon on the Financial Phrasebank.<br />
+Financial SVM.ipynb: contains the code for application of an SVM on the Financial Phrasebank.<br />
+Financial DL Model Tensorflow.ipynb: contains the code for the application of the BERT+CNN model on the Financial Phrasebank.<br />
 
-Medical Lexicon Based Approach.ipynb: contains the code for application of the VADER lexicon on the Drugs.com reviews dataset.
-Medical SVM.ipynb: contains the code for application of an SVM on the Drugs.com reviews dataset.
-Medical DL Tensorflow.ipynb: contains the code for the application of the BERT+CNN model on the Drugs.com reviews dataset.
+Medical Lexicon Based Approach.ipynb: contains the code for application of the VADER lexicon on the Drugs.com reviews dataset.<br />
+Medical SVM.ipynb: contains the code for application of an SVM on the Drugs.com reviews dataset.<br />
+Medical DL Tensorflow.ipynb: contains the code for the application of the BERT+CNN model on the Drugs.com reviews dataset.<br />
 
 Preprocessing Pipeline and Data Exploration Financial.ipynb: contains the code for preprocessing the financial data and performing data exploration on it.
 Preprocessing Pipeline and Data Exploration Medical.ipynb: contains the code for preprocessing the medical data and performing data exploration on it.
