@@ -31,7 +31,7 @@ Medical DL Tensorflow.ipynb: contains the code for the application of the BERT+C
 Preprocessing Pipeline and Data Exploration Financial.ipynb: contains the code for preprocessing the financial data and performing data exploration on it.<br />
 Preprocessing Pipeline and Data Exploration Medical.ipynb: contains the code for preprocessing the medical data and performing data exploration on it.
 
-Error indices: folder containing the indices of specific errors from the cells of the confusion matrix.
+Error indexes: folder containing the indices of specific errors from the cells of the confusion matrix. This folder also contains the notebooks in which the error analyses were performed.
 
 ## Author
 Robin Oostveen, 6732348<br />
