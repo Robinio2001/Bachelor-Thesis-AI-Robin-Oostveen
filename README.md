@@ -28,12 +28,12 @@ Medical Lexicon Based Approach.ipynb: contains the code for application of the V
 Medical SVM.ipynb: contains the code for application of an SVM on the Drugs.com reviews dataset.<br />
 Medical DL Tensorflow.ipynb: contains the code for the application of the BERT+CNN model on the Drugs.com reviews dataset.<br />
 
-Preprocessing Pipeline and Data Exploration Financial.ipynb: contains the code for preprocessing the financial data and performing data exploration on it.
+Preprocessing Pipeline and Data Exploration Financial.ipynb: contains the code for preprocessing the financial data and performing data exploration on it.<br />
 Preprocessing Pipeline and Data Exploration Medical.ipynb: contains the code for preprocessing the medical data and performing data exploration on it.
 
 Error indices: folder containing the indices of specific errors from the cells of the confusion matrix.
 
 ## Author
-Robin Oostveen
-6732348, Utrecht University
+Robin Oostveen<br />
+6732348, Utrecht University<br />
 Supervisor: Yingjin Song
